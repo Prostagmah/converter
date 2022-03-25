@@ -1,0 +1,20 @@
+C:\Users\Ученик\source\repos\Converter\obj\Debug\Converter.csproj.AssemblyReference.cache
+C:\Users\Ученик\source\repos\Converter\obj\Debug\Converter.Form1.resources
+C:\Users\Ученик\source\repos\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\Ученик\source\repos\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+C:\Users\Ученик\source\repos\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\Ученик\source\repos\Converter\bin\Debug\Converter.exe.config
+C:\Users\Ученик\source\repos\Converter\bin\Debug\Converter.exe
+C:\Users\Ученик\source\repos\Converter\bin\Debug\Converter.pdb
+C:\Users\Ученик\source\repos\Converter\obj\Debug\Converter.exe
+C:\Users\Ученик\source\repos\Converter\obj\Debug\Converter.pdb
+G:\С#\На уроке\Converter\bin\Debug\Converter.exe.config
+G:\С#\На уроке\Converter\bin\Debug\Converter.exe
+G:\С#\На уроке\Converter\bin\Debug\Converter.pdb
+G:\С#\На уроке\Converter\obj\Debug\Converter.csproj.AssemblyReference.cache
+G:\С#\На уроке\Converter\obj\Debug\Converter.Form1.resources
+G:\С#\На уроке\Converter\obj\Debug\Converter.Properties.Resources.resources
+G:\С#\На уроке\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+G:\С#\На уроке\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+G:\С#\На уроке\Converter\obj\Debug\Converter.exe
+G:\С#\На уроке\Converter\obj\Debug\Converter.pdb
